@@ -64,9 +64,8 @@ data information
 ```
 
 Value of x
-
 ![image](https://github.com/user-attachments/assets/24281b25-a50d-44fd-b8de-7ce7ac760239)
-```
+
 
 Value of X1_scaled
 
