@@ -58,13 +58,14 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-```
+
 data information
 ![image](https://github.com/user-attachments/assets/cb959b40-d93d-41c1-89ca-8f2d9553690c)
 ```
+
 Value of x
 ![image](https://github.com/user-attachments/assets/24281b25-a50d-44fd-b8de-7ce7ac760239)
-```
+
 ```
 Value of X1_scaled
 ![image](https://github.com/user-attachments/assets/a1c59e09-7c76-425a-8eaa-888fc2f3bfeb)
