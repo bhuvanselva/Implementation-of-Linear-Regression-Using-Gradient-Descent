@@ -69,30 +69,9 @@ Value of x
 
 Value of x1_SCALED:
 
+![image](https://github.com/user-attachments/assets/f1dfee9a-ae09-4f66-ac6d-9d6ad51538b7)
 
 Predicted Value:
-
-![image](https://github.com/user-attachments/assets/7f3b3b6f-da14-4857-8512-4b45e9e4caf0)
-
-Result:
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![image](https://github.com/user-attachments/assets/a1c59e09-7c76-425a-8eaa-888fc2f3bfeb)
 
