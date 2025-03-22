@@ -60,14 +60,39 @@ print(f"Predicted value: {pre}")
 ## Output:
 
 data information
-![image](https://github.com/user-attachments/assets/cb959b40-d93d-41c1-89ca-8f2d9553690c)
-```
+
+![image](https://github.com/user-attachments/assets/46f0604a-f979-42ea-b2db-348e92cdc463)
 
 Value of x
-![image](https://github.com/user-attachments/assets/24281b25-a50d-44fd-b8de-7ce7ac760239)
+![image](https://github.com/user-attachments/assets/95ab79b1-d2af-41a8-8e12-b44c6c5d27d0)
 
 
-Value of X1_scaled
+Value of x1_SCALED:
+
+
+Predicted Value:
+
+![image](https://github.com/user-attachments/assets/7f3b3b6f-da14-4857-8512-4b45e9e4caf0)
+
+Result:
+Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/a1c59e09-7c76-425a-8eaa-888fc2f3bfeb)
 
